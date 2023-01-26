@@ -2,7 +2,7 @@
 
 **What do we need?**
 
-- _bed (purshased)_
+- _bed (purchased)_
 - _sofa_
 - _dining room table_
 
